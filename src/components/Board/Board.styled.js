@@ -1,6 +1,5 @@
-import styled from 'styled-components/native'
+import styled from 'styled-components/native';
 
-const BoardWrapper = styled.View`
-`
+const BoardWrapper = styled.View``;
 
-export { BoardWrapper }
+export { BoardWrapper };
